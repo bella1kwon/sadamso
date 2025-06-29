@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  background: #5B1818;
+  font-family: 'Noto Sans KR', 'Pretendard', 'Spoqa Han Sans', sans-serif;
+  color: #FFF8E1;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
