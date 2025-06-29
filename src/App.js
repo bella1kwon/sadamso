@@ -35,6 +35,11 @@ function HomeIntro() {
   return (
     <div className="home-intro">
       <h1>Sadamso</h1>
+      <img
+        src={process.env.PUBLIC_URL + '/main-visual.jpg'}
+        alt="메인 비주얼"
+        className="main-visual"
+      />
       <p className="kor">
         사담소는 동시대 미술에서의 감상과 지식 생산을 실험하는 장소다. 우리는 전시에서 무엇을 보는가? 그리고 어떻게 남길 수 있는가? 남겨진 것은 무엇이 되는가? 전시에 관한 말들은 전시의, 때로는 전시에 포함되지 않는 것만 같은 부분으로부터 시작하지만, 알 수 없는 곳에서 멈추고 또 다른 공간을 만든다.
       </p>
