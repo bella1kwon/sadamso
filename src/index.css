@@ -1,7 +1,14 @@
+@font-face {
+  font-family: 'KBIZHanmaumMyungjo';
+  src: url('/fonts/KBIZHanmaumMyungjo.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 body {
   margin: 0;
   background: #5B1818;
-  font-family: 'Noto Sans KR', 'Pretendard', 'Spoqa Han Sans', sans-serif;
+  font-family: 'KBIZHanmaumMyungjo', 'Noto Sans KR', 'Pretendard', 'Spoqa Han Sans', sans-serif;
   color: #FFF8E1;
 }
 
